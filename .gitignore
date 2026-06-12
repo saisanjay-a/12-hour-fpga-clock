@@ -1,0 +1,21 @@
+# Vivado Generated Files
+
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+*.jou
+*.log
+*.str
+*.wcfg
+
+*.bit
+*.bin
+
+*.tmp
+*.bak
+
+*.zip
